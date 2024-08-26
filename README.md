@@ -15,25 +15,22 @@
        </p>
 
 <h2  align="center"> 
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝒘𝒆𝒍𝒄𝒐𝒎𝒆,🙏🏻 𝑰'𝒎 Joel� Lake�
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝒘𝒆𝒍𝒄𝒐𝒎𝒆,🙏🏻 𝑰'𝒎 Joel Lake
 </h2>
 
 <p align="center"> 
- 
-  <img src="https://komarev.com/ghpvc/?username=joellake992&label=Profile%20views&color=0e75b6&style=flat" alt="joellake992" /> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=joellake992&label=Profile%20views&color=0e75b6&style=flat" alt="joellake992" /> 
 </p>
 
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
-   <p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joellake992&show_icons=true&theme=aura&layout=compact" alt="joellake992" /></p>
-<p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=joellake992&show_icons=true&theme=algolia&show_icons=true" alt="joellake992" /></p>
+    <p><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joellake992&show_icons=true&theme=aura&layout=compact" alt="joellake992" /></p>
+    <p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=joellake992&show_icons=true&theme=algolia&show_icons=true" alt="joellake992" /></p>
   </div>
   
- <div style="flex: 1; flex-direction: row; width: 100%">
+  <div style="flex: 1; flex-direction: row; width: 100%">
     <img height="180em" src="https://streak-stats.demolab.com/?user=joellake992&count_private=false&theme=react"/>
-  
   </div>
- 
 </div>
 
 <p align="center"> 
