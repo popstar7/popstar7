@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=joellake992&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=popstar7&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=HELLO%2C+My+name+is+Joel+Lake+%F0%9F%98%8A;I+am+from+Kolkata%2C+India+%F0%9F%93%8C;I'm+23+years+old+%F0%9F%8E%89;I+study+B.tech+In+CSE+%F0%9F%8E%93;Be+Welcome!+%3A)+%F0%9F%91%8F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=HELLO%2C+My+name+is+Joel+Lake+%F0%9F%98%8A;I+am+from+Kolkata%2C+Canada+%F0%9F%93%8C;I'm+23+years+old+%F0%9F%8E%89;I+study+B.tech+In+CSE+%F0%9F%8E%93;Be+Welcome!+%3A)+%F0%9F%91%8F" alt="Typing SVG" /></a>
 </div>
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
@@ -19,23 +19,23 @@
 </h2>
 
 <p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=joellake992&label=Profile%20views&color=0e75b6&style=flat" alt="joellake992" /> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=popstar7&label=Profile%20views&color=0e75b6&style=flat" alt="popstar7" /> 
 </p>
 
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
-    <p><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joellake992&show_icons=true&theme=aura&layout=compact" alt="joellake992" /></p>
-    <p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=joellake992&show_icons=true&theme=algolia&show_icons=true" alt="joellake992" /></p>
+    <p><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=popstar7&show_icons=true&theme=aura&layout=compact" alt="popstar7" /></p>
+    <p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=popstar7&show_icons=true&theme=algolia&show_icons=true" alt="popstar7" /></p>
   </div>
   
   <div style="flex: 1; flex-direction: row; width: 100%">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=joellake992&count_private=false&theme=react"/>
+    <img height="180em" src="https://streak-stats.demolab.com/?user=popstar7&count_private=false&theme=react"/>
   </div>
 </div>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=joellake992" alt="joellake992" />
+    <img src="https://github-profile-trophy.vercel.app/?username=popstar7" alt="popstar7" />
   </a> 
 </p>
 
@@ -57,7 +57,7 @@
 
 - 🌱 Setting up practical **projects with friends**
 
-- 📫 How to reach me **LakeJoel@gmai.com**
+- 📫 How to reach me **joel.lake.777@gmail.com**
   
 - 👯Currently learning Laravel **backend and frontend Development**
 
@@ -88,7 +88,7 @@
 <a href="https://discord.com/channels/1270755047046910002/1270755047881445457" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
 <a href="https://statuesque-blini-0d0be9.netlify.app/"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/Joel-Lake/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://codepen.io/joellake992" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
+<a href="https://codepen.io/popstar7" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
 <a href="mailto:joel.lake.777@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
 </p>
 </br>
@@ -98,7 +98,7 @@
 <br>
 
 [![Ashutosh's github activity
-graph](https://github-readme-activity-graph.vercel.app/graph?username=joellake992&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+graph](https://github-readme-activity-graph.vercel.app/graph?username=popstar7&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </br>
 
