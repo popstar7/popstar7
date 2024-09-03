@@ -1,7 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=popstar7&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=HELLO%2C+My+name+is+Joel+Lake+%F0%9F%98%8A;I+am+from+Kolkata%2C+Canada+%F0%9F%93%8C;I'm+23+years+old+%F0%9F%8E%89;I+study+B.tech+In+CSE+%F0%9F%8E%93;Be+Welcome!+%3A)+%F0%9F%91%8F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=HELLO%2C+My+name+is+Joel+Lake+%F0%9F%98%8A;I+am+from+Canada+%F0%9F%93%8C;I'm+29+years+old+%F0%9F%8E%89;I+am+developing+Blockchain+In+CSE+%F0%9F%8E%93;Be+Welcome!+%3A)+%F0%9F%91%8F" alt="Typing SVG" />
+  </a>
 </div>
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
@@ -53,13 +55,13 @@
   </div>
 </div>
 
-- 🔭 Student In **B.tech Computer Science Engineering**
+- 🔭 Engineer from **B.tech Computer Science Engineering**
 
-- 🌱 Setting up practical **projects with friends**
+- 🌱 Setting up practical **finalgoal**
 
 - 📫 How to reach me **joel.lake.777@gmail.com**
   
-- 👯Currently learning Laravel **backend and frontend Development**
+- 👯Currently developing blockchain **solana and solidity Development**
 
 - 🤝 Passionate about **technology and new contacts**
 
