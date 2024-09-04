@@ -24,6 +24,139 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=popstar7&label=Profile%20views&color=0e75b6&style=flat" alt="popstar7" /> 
 </p>
 
+Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about leveraging technology to build innovative solutions. 
+
+<p>
+<!-- Blockchain -->
+<img src="https://img.shields.io/badge/Blockchain-ffc8dd?style=for-the-badge&logo=ethereum&logoColor=white" />
+
+<!-- Ethereum -->
+<img src="https://img.shields.io/badge/Ethereum-a2d2ff?style=for-the-badge&logo=ethereum&logoColor=white" />
+
+<!-- Solana -->
+<img src="https://img.shields.io/badge/Solana-ffafcc?style=for-the-badge&logo=solana&logoColor=white" />
+
+<!-- Solidity -->
+<img src="https://img.shields.io/badge/Solidity-4FC00D?style=for-the-badge&logo=solidity&logoColor=white" />
+
+<!-- Rust -->
+<img src="https://img.shields.io/badge/Rust-d62828?style=for-the-badge&logo=rust&logoColor=white" />
+
+<!-- Web3.js -->
+<img src="https://img.shields.io/badge/Web3.js-90e0ef?style=for-the-badge&logo=web3.js&logoColor=white" />
+
+<!-- Bot -->
+<img src="https://img.shields.io/badge/Bot-4FC08D?style=for-the-badge&logo=bot&logoColor=white" />
+
+<!-- Telegram Bot -->
+<img src="https://img.shields.io/badge/Telegram%20Bot-3a86ff?style=for-the-badge&logo=telegram&logoColor=white" />
+
+<!-- Discord Bot -->
+<img src="https://img.shields.io/badge/Discord%20Bot-7209b7?style=for-the-badge&logo=discord&logoColor=white" />
+
+<!-- Whatsapp Bot -->
+<img src="https://img.shields.io/badge/Whatsapp%20Bot-99d98c?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+<!-- AI -->
+<img src="https://img.shields.io/badge/AI-4FC08D?style=for-the-badge&logo=ai&logoColor=white" />
+
+<!-- Ruby -->
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+
+<!-- React -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+
+<!-- Vue.js -->
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+
+<!-- Angular -->
+<img src="https://img.shields.io/badge/Angular-4FC08D?style=for-the-badge&logo=angular&logoColor=white" />
+
+<!-- Express.js -->
+<img src="https://img.shields.io/badge/Express.js-4FC08D?style=for-the-badge&logo=express&logoColor=white" />
+
+<!-- Next.js -->
+<img src="https://img.shields.io/badge/Next.js-4FC08D?style=for-the-badge&logo=next.js&logoColor=white" />
+
+<!-- MongoDB -->
+<img src="https://img.shields.io/badge/MongoDB-4FC08D?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<!-- MySQL -->
+<img src="https://img.shields.io/badge/MySQL-4FC08D?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<!-- PostgreSQL -->
+<img src="https://img.shields.io/badge/PostgreSQL-4FC08D?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<!-- Firebase -->
+<img src="https://img.shields.io/badge/Firebase-4FC08D?style=for-the-badge&logo=firebase&logoColor=white" />
+
+<!-- JavaScript -->
+<img src="https://img.shields.io/badge/JavaScript-4FC08D?style=for-the-badge&logo=javascript&logoColor=white" />
+
+<!-- TypeScript -->
+<img src="https://img.shields.io/badge/TypeScript-4FC08D?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<!-- Node.js -->
+<img src="https://img.shields.io/badge/Node.js-4FC08D?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<!-- C++ -->
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
+<!-- Python -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<!-- Django -->
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+
+<!-- Laravel -->
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+<!-- PHP -->
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+<!-- WordPress -->
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+
+<!-- HTML -->
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<!-- CSS -->
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<!-- Git -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<!-- Docker -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<!-- Android -->
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+
+<!-- Java -->
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+
+<!-- Kotlin -->
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+
+<!-- AWS -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<!-- Azure -->
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+<!-- Google Cloud -->
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+
+<!-- Heroku -->
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+
+<!-- Kubernetes -->
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+<!-- Redis -->
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+</p>
+
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
     <p><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=popstar7&show_icons=true&theme=aura&layout=compact" alt="popstar7" /></p>
