@@ -220,11 +220,11 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
    </p>
 <p align="center">
 
-<a href="https://discord.com/channels/1270755047046910002/1270755047881445457" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
-<a href="https://statuesque-blini-0d0be9.netlify.app/"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="mailto:joel.lake.777@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
+<a href="https://discord.gg/uu8EubAv" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
+<a href="https://portfolio-shine.vercel.app/"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/Joel-Lake/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://codepen.io/popstar7" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
-<a href="mailto:joel.lake.777@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
 </p>
 </br>
 
@@ -240,7 +240,7 @@ graph](https://github-readme-activity-graph.vercel.app/graph?username=popstar7&b
 <div align="center">
     <picture><img src="https://github.com/user-attachments/assets/209c1290-5039-4723-8ea8-04423f1ddf4c" width=50px>
     </picture>
-    <img src="https://profile-counter.glitch.me/piedro404/count.svg" alt="Profile Views" />
+    <img src="https://profile-counter.glitch.me/popstar7/count.svg" alt="Profile Views" />
     <picture><img src="https://github.com/user-attachments/assets/8a24d79f-a164-4983-a32f-0741863f4af1" width=50px>
     </picture>
 </div>
@@ -304,19 +304,3 @@ graph](https://github-readme-activity-graph.vercel.app/graph?username=popstar7&b
  </p>
  </br> 
  
- **🐱 My GitHub Data** 
-
-> 📦 185.8 kB Used in GitHub's Storage 
- > 
-> 🏆 66 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 23 Private Repositories 
- > 
-**I'm an Early 🐤** 
-###
-Last Updated on 08/08/2024 at 2:06:54 PM
-<!--END_SECTION:waka-->
