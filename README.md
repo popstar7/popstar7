@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=HELLO%2C+My+name+is+Joel+Lake+%F0%9F%98%8A;I+am+from+Canada+%F0%9F%93%8C;I'm+29+years+old+%F0%9F%8E%89;I+am+developing+Blockchain+In+CSE+%F0%9F%8E%93;Be+Welcome!+%3A)+%F0%9F%91%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=HELLO%2C+My+name+is+Jordan+Hilpert+%F0%9F%98%8A;I+am+from+Canada+%F0%9F%93%8C;I'm+29+years+old+%F0%9F%8E%89;I+am+developing+Blockchain+In+CSE+%F0%9F%8E%93;Be+Welcome!+%3A)+%F0%9F%91%8F" alt="Typing SVG" />
   </a>
 </div>
 
@@ -164,13 +164,15 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
   </div>
   
   <div style="flex: 1; flex-direction: row; width: 100%">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=popstar7&count_private=false&theme=react"/>
+    <p align="center">
+        <img height="180em" src="https://streak-stats.demolab.com/?user=popstar7&count_private=false&theme=react"/>
+    </p>
   </div>
 </div>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=popstar7" alt="popstar7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=popstar7&theme=gitdimmed&column=5" align="center" alt="popstar7" />
   </a> 
 </p>
 
@@ -192,7 +194,7 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
 
 - 🌱 Setting up practical **finalgoal**
 
-- 📫 How to reach me **joel.lake.777@gmail.com**
+- 📫 How to reach me **shine401020@gmail.com**
   
 - 👯Currently developing blockchain **solana and solidity Development**
 
@@ -220,10 +222,10 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
    </p>
 <p align="center">
 
-<a href="mailto:joel.lake.777@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
+<a href="mailto:shine401020@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
 <a href="https://discord.gg/uu8EubAv" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
 <a href="https://portfolio-shine.vercel.app/"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/Joel-Lake/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/jordan-hilpert-18247191/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://codepen.io/popstar7" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
 </p>
 </br>
