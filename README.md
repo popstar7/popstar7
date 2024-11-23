@@ -10,11 +10,13 @@
 
 <p align="center"> 
   <a href="http://jrohit.com.np" target="_blank">
-</p>    
-        <p align="center">
     <img alt="Coding" width="200" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
-    </a>
-       </p>
+  </a>
+</p>
+       
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=popstar7&theme=gitdimmed&column=5" />
+</p>
 
 <h2  align="center"> 
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝒘𝒆𝒍𝒄𝒐𝒎𝒆,🙏🏻 𝑰'𝒎 Senior Blockchain Engineer.
