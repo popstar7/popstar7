@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=HELLO%2C+My+name+is+Jordan+Hilpert+%F0%9F%98%8A;I+am+from+Canada+%F0%9F%93%8C;I'm+29+years+old+%F0%9F%8E%89;I+am+developing+Blockchain+In+CSE+%F0%9F%8E%93;Be+Welcome!+%3A)+%F0%9F%91%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=8D8D8D&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile;I+am+Senior+Blockchain+Engineer;Senior+Svelte+Engineer;Smart+and+Fantastic+frontend" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,10 +12,6 @@
   <a href="http://jrohit.com.np" target="_blank">
     <img alt="Coding" width="200" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
   </a>
-</p>
-       
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=popstar7&theme=gitdimmed&column=5" />
 </p>
 
 <h2  align="center"> 
@@ -159,6 +155,12 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
 
 </p>
 
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=popstar7&theme=gitdimmed&column=5" align="center" alt="popstar7" />
+  </a> 
+</p>
+
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
     <p><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=popstar7&show_icons=true&theme=aura&layout=compact" alt="popstar7" /></p>
@@ -171,12 +173,6 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
     </p>
   </div>
 </div>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=popstar7&theme=gitdimmed&column=5" align="center" alt="popstar7" />
-  </a> 
-</p>
 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> *A little more about me...* 
